@@ -1,0 +1,11 @@
+SECRET ENV SECRET_KEY
+RUN echo "secret is: $SECRET_KEY"
+
+SECRET ENV MONGO_URI
+RUN echo "secret is: $MONGO_URI"
+
+SECRET ENV VITE_API_URL
+RUN echo "secret is: $VITE_API_URI"
+
+SECRET ENV PORT
+RUN echo "secret is: $PORT"
