@@ -6,9 +6,10 @@ A full-stack social media application that allows users to share and interact wi
 
 Memories is a MERN stack application where users can post and share their experiences, adventures, and special moments with others. Each memory can include text, images, and tags, allowing for rich content sharing.
 
-![Memories App Screenshot](https://path-to-your-screenshot.png)
+![Memories App Screenshot]![memories app site](https://github.com/user-attachments/assets/cda8884c-e9be-4770-8545-781093f02ca6)
 
 ## Features
+
 
 - **User Authentication**
   - Secure signup and login
