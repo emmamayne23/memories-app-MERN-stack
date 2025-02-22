@@ -1,12 +1,13 @@
 # Memories - Share Your Experiences
 
-A full-stack social media application that allows users to share and interact with memorable experiences. Users can create, like, and comment on posts about their special moments.
+A full-stack social media application that allows users to share and interact with memorable experiences. Users can create, and like, on posts about their special moments.
 
 ## Overview
 
 Memories is a MERN stack application where users can post and share their experiences, adventures, and special moments with others. Each memory can include text, images, and tags, allowing for rich content sharing.
 
-![Memories App Screenshot]![memories app site](https://github.com/user-attachments/assets/cda8884c-e9be-4770-8545-781093f02ca6)
+![Memories App Screenshot]
+![memories app site](https://github.com/user-attachments/assets/cda8884c-e9be-4770-8545-781093f02ca6)
 
 ## Features
 
@@ -14,18 +15,15 @@ Memories is a MERN stack application where users can post and share their experi
 - **User Authentication**
   - Secure signup and login
   - JWT-based authentication
-  - Google OAuth integration (if implemented)
+  - Google OAuth integration (not yet implemented) 
 
 - **Post Management**
   - Create new memory posts
   - Upload images
   - Edit existing posts
-  - Delete posts
-  - Like posts
   - Add tags to posts
 
 - **Social Features**
-  - Comment on posts
   - View other users' memories
   - Search memories by tags
   - Real-time updates
